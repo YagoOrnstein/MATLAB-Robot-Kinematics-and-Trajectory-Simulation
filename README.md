@@ -12,7 +12,7 @@ This MATLAB repository simulates robotic trajectories and performs kinematic ana
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/vi4697/MATLAB-Robot-Kinematics-and-Trajectory-Simulation.git
+   git clone https://github.com/YagoOrnstein/MATLAB-Robot-Kinematics-and-Trajectory-Simulation.git
    cd MATLAB-Robot-Kinematics-and-Trajectory-Simulation
    ```
 2. Add the required paths in MATLAB by running `startup_rvc.m`:
